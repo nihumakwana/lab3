@@ -73,6 +73,8 @@
   padding: 20px;
   color: black;
   background-color: #d9e1e8;
+  height: 300px;            
+  overflow-y: scroll;       
 }
 
 /* Footer */
