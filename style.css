@@ -51,7 +51,7 @@
 
 /* Layout */
 .item1 {
-  grid-row: 1 / 3; /* spans 2 rows */
+  grid-row: 1 / 3; 
   grid-column: 1 / 2;
 }
 
